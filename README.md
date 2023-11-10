@@ -8,15 +8,5 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=kajov&show_icons=true" />
-
-
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kajov"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kajov"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kajov" />
 </picture>
