@@ -8,4 +8,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kajov&show_icons=true"/>
 </picture>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kajov&theme=dark&layout=compact)]
+![Karolis WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kajov&theme=dark&layout=compact)
